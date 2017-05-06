@@ -32,3 +32,5 @@ min(df$cost)
 mean(df$cost)
 #2.d what is the median cost
 median(df$cost)
+
+sd(df$cost)
