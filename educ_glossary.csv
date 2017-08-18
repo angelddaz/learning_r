@@ -1,0 +1,14 @@
+Value,Description,Notes
+Acad yr,"Academic Year; differs by institution, but generally the period from September to June (e.g., AcadYr 2013-14 = 9/1/2013 - 5/31/2014)",Referenced in the data cohort map
+AY,Award Year (e.g. AY 2013-14 = 7/1/2013-6/30/2014),Referenced in the data cohort map
+CY,Calendar Year (e.g. CY 2014 = 1/1/14-12/31/14),Referenced in the data cohort map
+DCY,"IPEDS Data Collection Year (e.g., DCY2013-14 = the 2013-14 IPEDS collection)",Referenced in the data cohort map
+ED,U.S. Department of Education,"In the data dictionary, an ""ED"" value in the ?Source? field indicates that the data element described is derived from the Department of Education sources (e.g. http://sites.ed.gov/whhbcu/one-hundred-and-five-historically-black-colleges-and-universities )"
+FSA,Federal Student Aid,"In the data dictionary, an ""FSA"" value in the ?Source? field indicates that the data element described is derived from the FSA Data Center (https://studentaid.ed.gov/sa/data-center) or FSA Postsecondary Education Participant System (https://www2.ed.gov/offices/OSFAP/PEPS/dataextracts.html)"
+FY,Fiscal Year (e.g. FY 2014= 10/1/13-9/30/14),Referenced in the data cohort map
+IPEDS,Integrated Postsecondary Education Data System,"An ""IPEDS"" value in the ""Source"" field indicates that the data element described is derived from IPEDS (http://nces.ed.gov/ipeds/Home/UseTheData) or taken from the College Navigator (http://nces.ed.gov/collegenavigator/)"
+NSLDS,National Student Loan Data System,"NSLDS is the U.S. Department of Education's central database for student aid, a value of ?NSLDS? in the ?Source? field of the data dictionary indicates that the data element described is derived from NSLDS"
+OPE,Office of Postsecondary Education,"In the data dictionary, a value of ""OPE"" in the ""Source"" field indicates that the data element described is derived from the Department's Office of Postsecondary Education Eligibility Matrix (http://www2.ed.gov/about/offices/list/ope/idues/em2016.xls)"
+Treasury,U. S. Department of Treasury,"A value of ""Treasury"" in the ""Source"" field of the data dictionary indicates that the data element described was calculated by the Department of Treasury with data derived from NSLDS combined with data from IRS tax records or data from the U.S. Census Bureau"
+ED,U.S. Department of Education,"In the data dictionary, a value of ""ED"" in the ""Source"" field indicates that the data element described is derived from http://sites.ed.gov/whhbcu/one-hundred-and-five-historically-black-colleges-and-universities/"
+PEPS,FSA Postsecondary Education Participant System,Referenced in the data cohort map
